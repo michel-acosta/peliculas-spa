@@ -64,3 +64,7 @@ The Movie Database (TMDB)
 Es necesario configurar una API Key en:
 
 src/services/api.js
+
+## Vercel
+
+https://peliculas-spa.vercel.app/
